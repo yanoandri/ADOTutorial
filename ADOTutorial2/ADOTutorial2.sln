@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInterface", "ADOTutorial2\UserInterface.csproj", "{D9F8F3F5-A630-485B-A309-97F968A87038}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{F10A023A-5E1C-4577-80D3-523240ED1DFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogicLayer", "BusinessLogicLayer\BusinessLogicLayer.csproj", "{68588588-489B-4990-8568-982A96CF5D90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9F8F3F5-A630-485B-A309-97F968A87038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9F8F3F5-A630-485B-A309-97F968A87038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9F8F3F5-A630-485B-A309-97F968A87038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9F8F3F5-A630-485B-A309-97F968A87038}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F10A023A-5E1C-4577-80D3-523240ED1DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10A023A-5E1C-4577-80D3-523240ED1DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10A023A-5E1C-4577-80D3-523240ED1DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10A023A-5E1C-4577-80D3-523240ED1DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68588588-489B-4990-8568-982A96CF5D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68588588-489B-4990-8568-982A96CF5D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68588588-489B-4990-8568-982A96CF5D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68588588-489B-4990-8568-982A96CF5D90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
